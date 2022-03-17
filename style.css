@@ -1,0 +1,35 @@
+body
+{
+    text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+    background-image:-moz-linear-gradient();
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color:(#03eeff 100%,#0320ff 0%);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+img{
+    border-style: outset;
+    border-color: aqua;
+
+}
